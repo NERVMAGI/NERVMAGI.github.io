@@ -4,10 +4,10 @@
 
 # Site
 title: ひとりのBlog
-subtitle: ''
-description: ''
+subtitle: '所谓的奇迹就是要发生之后才会有存在的价值'
+description: 'by 葛城美里'
 keywords:
-author: shinji
+author: Li_Haoxuan
 language: en
 timezone: ''
 
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
