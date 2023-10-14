@@ -111,7 +111,7 @@ live2d:
   model:
     use: live2d-widget-model-z16    #模板目录，在node_modules里,自己选择
   display:
-    position: left
+    position: right
     width: 150
     height: 300
   mobile:
@@ -131,4 +131,7 @@ bangumis:
   lazyload: true            # 是否开启懒加载
   margin: 20px              # 封面图的偏移量微调
 
+aplayer:
+  meting: true
+  asset_inject: false
 

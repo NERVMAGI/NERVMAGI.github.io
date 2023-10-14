@@ -765,11 +765,11 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-   - 所谓的奇迹就是要发生之后才有存在的价值
+   - 所谓的奇迹就是要发生之后才有存在的价值。
    - By 葛城美里
-   - 我们一日日度过的所谓的日常，实际上可能是接连不断的奇迹
+   - 我们一日日度过的所谓的日常，实际上可能是接连不断的奇迹。
    - 《日常》
-   - 或许前路永夜，即便如此我也要前进，因为星光即使微弱也会为我照亮前路
+   - 或许前路永夜，即便如此我也要前进，因为星光即使微弱也会为我照亮前路。
    - 宫园薰
    - 仅仅是和你一同仰望天空，平日司空见惯的风景也会变得与众不同。
    - 有马公生 
@@ -849,14 +849,14 @@ note:
 # It may contain bugs and unstable, give feedback when you find the bugs.
 # https://github.com/MoOx/pjax
 pjax:
-  enable: false
+  enable: true
   exclude:
     # - xxxx
     # - xxxx
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
-  enable: false
+  enable: true
   per_page: true
 
 # Snackbar (Toast Notification 彈窗)
@@ -921,6 +921,7 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
+   - <div class="aplayer" data-id="7664243968" data-server="netease" data-type="playlist"  data-fixed="true" data-theme="#3F51B5"></div>
     # - <script src="xxxx"></script>
 
 # CDN
@@ -1000,4 +1001,8 @@ CDN:
     # valine:
     # waline_css:
     # waline_js:  
+  
+
+
+
 
