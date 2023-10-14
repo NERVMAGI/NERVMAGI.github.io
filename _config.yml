@@ -4,12 +4,12 @@
 
 # Site
 title: ひとりのBlog
-subtitle: 'A Personal Blog'
+subtitle: 'Animation Blog'
 description: '新世纪内卷高中牲'
-keywords: 
+keywords: 动画博客
 author: Li_Haoxuan
-language: en
-timezone: ''
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -103,5 +103,20 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+#看板娘
+live2d:
+  enable: true
+  pluginModelPath: assets/
+  model:
+    use: live2d-widget-model-z16    #模板目录，在node_modules里,自己选择
+  display:
+    position: left
+    width: 150
+    height: 300
+  mobile:
+    show: false  #是否在手机进行显示
+
+
 
 
