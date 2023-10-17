@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ひとりのBlog</title>
+  
+  <subtitle>Animation Blog</subtitle>
+  <link href="https://nervmagi.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://nervmagi.github.io/"/>
+  <updated>2023-10-17T16:33:15.748Z</updated>
+  <id>https://nervmagi.github.io/</id>
+  
+  <author>
+    <name>Li_Haoxuan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>OP和番剧推荐</title>
+    <link href="https://nervmagi.github.io/01/"/>
+    <id>https://nervmagi.github.io/01/</id>
+    <published>2023-10-14T02:10:00.000Z</published>
+    <updated>2023-10-17T16:33:15.748Z</updated>
+    
+    
+    <summary type="html">我的第一篇博客</summary>
+    
+    
+    
+    <category term="动漫" scheme="https://nervmagi.github.io/categories/%E5%8A%A8%E6%BC%AB/"/>
+    
+    
+    <category term="动漫" scheme="https://nervmagi.github.io/tags/%E5%8A%A8%E6%BC%AB/"/>
+    
+    <category term="生活" scheme="https://nervmagi.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="技术" scheme="https://nervmagi.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+</feed>
