@@ -41,7 +41,7 @@ social:
   fab fa-bilibili: https://space.bilibili.com/449307448 || 哔哩哔哩 || '#24292e'
   fa fa-video: http://bangumi.tv/anime/list/li_haoxuan/collect || bangumi || '#24292e'
   fas fa-music: https://music.163.com/#/user/home?id=3721850299 || 网易 || '#24292e'
-  fa fa-rss: https://nervmagi.github.io/atom.xml/ || RSS || '#24292e'
+  fa fa-rss: https://nervmagi.github.io/atom.xml || RSS || '#24292e'
   # fab fa-weibo: https://weibo.com/u/7648858839 || 微博 || '#24292e'
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
 
@@ -104,7 +104,7 @@ error_img:
 
 # A simple 404 page
 error_404:
-  enable: false
+  enable: true
   subtitle: 'Page Not Found'
   background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
 
