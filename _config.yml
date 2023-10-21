@@ -104,19 +104,6 @@ theme: butterfly
 deploy:
   type: ''
 
-#看板娘
-live2d:
-  enable: true
-  pluginModelPath: assets/
-  model:
-    use: live2d-widget-model-z16    #模板目录，在node_modules里,自己选择
-  display:
-    position: right
-    width: 150
-    height: 300
-  mobile:
-    show: true  #是否在手机进行显示
-
 bangumis:
   enable: true              # 是否启用
   path: bangumis/index.html # 生成追番页面的路径
@@ -154,4 +141,7 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
+
+live2d:
+  enable: true
 

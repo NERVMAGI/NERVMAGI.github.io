@@ -241,7 +241,7 @@ aside:
       text: 项目代码
       link: https://github.com/NERVMAGI/NERVMAGI.github.io
   card_announcement:
-    enable: true
+    enable: false
     content: 一个个人二次元博客！
   card_recent_post:
     enable: true
@@ -774,13 +774,13 @@ subtitle:
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
    - 所谓的奇迹就是要发生之后才有存在的价值。
-   - By 葛城美里
+   - -葛城美里
    - 我们一日日度过的所谓的日常，实际上可能是接连不断的奇迹。
-   - 《日常》
+   - -《日常》
    - 或许前路永夜，即便如此我也要前进，因为星光即使微弱也会为我照亮前路。
-   - 宫园薰
+   - -宫园薰
    - 仅仅是和你一同仰望天空，平日司空见惯的风景也会变得与众不同。
-   - 有马公生 
+   - -有马公生 
 # Loading Animation (加載動畫)
 preloader:
   enable: true
@@ -928,9 +928,10 @@ css_prefix: true
 inject:
   head:
    - <link rel="stylesheet" href="/css/mystyle.css">
+   - <script defer src="/live2d-widget-master/autoload.js"></script>
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
-   - <div class="aplayer" data-id="7664243968" data-server="netease" data-type="playlist"  data-fixed="true" data-theme="#3F51B5"></div>
+    # - <div class="aplayer" data-id="7664243968" data-server="netease" data-type="playlist"  data-fixed="true" data-theme="#3F51B5"></div>
     # - <script src="xxxx"></script>
 
 # CDN
@@ -1010,6 +1011,10 @@ CDN:
     # valine:
     # waline_css:
     # waline_js:  
+
+
+
+
 
 
 
