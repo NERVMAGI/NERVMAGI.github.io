@@ -14,9 +14,9 @@ menu:
  音乐: /music/ || fa fa-music
  目录||fas fa-list:
   主页: / || fas fa-home
-  归档: /archives/ || fas fa-archive
-  标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
+  标签: /tags/ || fas fa-tags
+  归档: /archives/ || fas fa-archive
  关于: /about/ || fa fa-user
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
