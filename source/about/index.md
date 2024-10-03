@@ -1,5 +1,5 @@
 ---
-title: 关于我自己
+title: About
 ---
 
-<center> 一名新世纪内卷高中牲 </center>
+<center> Gonna be OK </center>
