@@ -1,42 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>ひとりのBlog</title>
-  
-  <subtitle>Animation Blog</subtitle>
-  <link href="https://nervmagi.github.io/atom.xml" rel="self"/>
-  
-  <link href="https://nervmagi.github.io/"/>
-  <updated>2026-02-09T02:51:04.883Z</updated>
-  <id>https://nervmagi.github.io/</id>
-  
   <author>
     <name>Akari_Light_</name>
-    
   </author>
-  
   <generator uri="https://hexo.io/">Hexo</generator>
-  
+  <id>https://nervmagi.github.io/</id>
+  <link href="https://nervmagi.github.io/" rel="alternate"/>
+  <link href="https://nervmagi.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Akari_Light_</rights>
+  <subtitle>Animation Blog</subtitle>
+  <title>ひとりのBlog</title>
+  <updated>2026-02-10T03:15:49.941Z</updated>
   <entry>
-    <title>音乐和番剧推荐</title>
-    <link href="https://nervmagi.github.io/01/"/>
-    <id>https://nervmagi.github.io/01/</id>
-    <published>2023-10-14T02:10:00.000Z</published>
-    <updated>2026-02-09T02:51:04.883Z</updated>
-    
-    
-    <summary type="html">我的第一篇博客</summary>
-    
-    
-    
+    <author>
+      <name>Akari_Light_</name>
+    </author>
     <category term="动漫" scheme="https://nervmagi.github.io/categories/%E5%8A%A8%E6%BC%AB/"/>
-    
-    
     <category term="动漫" scheme="https://nervmagi.github.io/tags/%E5%8A%A8%E6%BC%AB/"/>
-    
     <category term="生活" scheme="https://nervmagi.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
-    
     <category term="技术" scheme="https://nervmagi.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
-    
+    <id>https://nervmagi.github.io/01/</id>
+    <link href="https://nervmagi.github.io/01/"/>
+    <published>2023-10-14T02:10:00.000Z</published>
+    <summary>我的第一篇博客</summary>
+    <title>音乐和番剧推荐</title>
+    <updated>2026-02-10T03:15:49.941Z</updated>
   </entry>
-  
 </feed>
