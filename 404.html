@@ -240,7 +240,7 @@ document.body.addEventListener('input', POWERMODE);
   const pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
 
   window.pjax = new Pjax({
-    elements: 'a:not([target="_blank"])',
+    elements: 'a:not([target="_blank"]):not([data-fancybox])',
     selectors: pjaxSelectors,
     cacheBust: false,
     analytics: false,
